@@ -1,0 +1,10 @@
+body{
+    background-color: blueviolet;
+}
+label{
+    color: white;
+}
+input{
+    border-bottom: 1px solid white;
+background-color: blueviolet;
+}
